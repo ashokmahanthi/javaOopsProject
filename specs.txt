@@ -1,0 +1,24 @@
+## Creating a school Management System.
+## Maintaing Students, Teachers and Funds.
+## Money Management System for school.
+
+## Keep Track of student total fee, fee already paid and teachers salary.
+
+//School
+Teachers
+Students
+Total Money earned
+Total Money spent - Teacher's salary
+
+//Teacher
+id
+name
+salary
+
+//student
+id
+name
+class
+
+
+
